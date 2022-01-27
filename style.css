@@ -49,6 +49,8 @@ h2{
 ul li {
     margin: 1rem 0;
     font-size: 1.1rem;
-    cursor: pointer;
     font-weight: normal;
+}
+ul li label {
+    cursor: pointer;
 }
